@@ -78,7 +78,7 @@ For the less impatient:
 
 6.  Add `nvm-auto` to your plugins variable in `~/.zshrc`.
 
-7.  Add a call to the `nvm_auto-switch` function **after** NVM is initialized in
+7.  Add a call to the `nvm_auto_switch` function **after** NVM is initialized in
     your `.zshrc` file.
 
 8.  Source `.zshrc` in your current shell or restart your shell.
