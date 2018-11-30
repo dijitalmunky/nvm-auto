@@ -68,7 +68,7 @@ For the less impatient:
 1.  Ensure you have nvm >=0.30 installed properly.
 
 2.  Make sure you have set the `default` alias for nvm - e.g.:
-    `nvm set default 5.9.0`
+    `nvm alias default 10.14.1`
 
 3.  Have `oh-my-zsh` installed (D'uh!)
 
